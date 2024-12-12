@@ -1,4 +1,4 @@
-# Gayoung's Repository
+# Gayoung's Github
 
 ✨ Contact
 -----------
