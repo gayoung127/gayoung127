@@ -2,7 +2,7 @@
 
 ✨ Contact
 -----------
-<a href="mailto:dinin1217@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimmg0708@gmail.com"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:dinin1217@gmail.com)
 <br><br>
 
 ✨Skills
