@@ -1,4 +1,5 @@
-# Gayoung's Github
+# Gayoung's Github 
+[![Notion Badge](https://img.shields.io/badge/Notion-View%20Document-black?style=flat&logo=notion&logoColor=white)](https://www.notion.so/s-Note-1765f518a63e80299212cbcca2e732fa?pvs=4)
 
 ✨ Contact
 -----------
@@ -41,6 +42,7 @@
 ✨Study
 -----------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayoung127&repo=Study-github)](https://github.com/gayoung127/Study-github)
+
 
 
 
